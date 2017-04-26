@@ -1,3 +1,6 @@
+# C3.js 範例：以國際廢話線為例
+## 以下為 fork 到的官方文件
+
 c3 [![Build Status](https://travis-ci.org/c3js/c3.svg?branch=master)](https://travis-ci.org/c3js/c3) [![Dependency Status](https://david-dm.org/c3js/c3.svg)](https://david-dm.org/c3js/c3) [![devDependency Status](https://david-dm.org/c3js/c3/dev-status.svg)](https://david-dm.org/c3js/c3#info=devDependencies) [![license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/c3js/c3/blob/master/LICENSE) [![codecov.io](https://codecov.io/github/c3js/c3/coverage.svg?branch=master)](https://codecov.io/github/c3js/c3?branch=master)
 ==
 
